@@ -1,6 +1,6 @@
 # guessingGame
-Built using Google fonts
--Vanilla JavaScript
+JavaScript
 HTML
 ES6
 Css
+Google fonts
