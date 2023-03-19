@@ -1,4 +1,4 @@
-# Guessing Again
+# Mind Meld
 A JavaScript tutorial program that implements a guessing game with some added tweaks. The program generates a random number between 1 and 100 and prompts the user to guess the number. If the user's guess is too high or too low, the program provides a hint and prompts the user to guess again. Once the user guesses the correct number, the program displays the number of guesses it took to reach the correct answer.
 
 ### Installation
